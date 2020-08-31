@@ -44,7 +44,7 @@ namespace xadrez
                 {
                     break;
                 }
-                pos.Coluna = pos.Linha + 1;
+                pos.Linha = pos.Linha + 1;
             }
 
             //Direito
